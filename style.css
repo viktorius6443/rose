@@ -1,0 +1,1250 @@
+:root{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.container{
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.button{
+    font-family: 'Architects Daughter', cursive;
+    padding: 12px 24px;
+    width: 163px;
+    border-radius: 12px;
+    border: 1px solid #87747F;
+    background: #D1C1C7;
+}
+
+.button:hover{
+    cursor: pointer;
+    background: #bdaeb4;
+}
+
+.title{
+    font-size: 128px;
+    line-height: 128px;
+}
+
+.title2{
+    font-size: 64px;
+    line-height: 80px;
+}
+
+.main img {
+    height: 750px;
+}
+
+.header{
+    margin-top: 28px;
+    margin-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-header{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.nav-header li{
+    list-style-type: none;
+}
+
+.nav-header li a{
+    text-decoration: none;
+    font-size: 32px;
+    color: #371C27;
+}
+
+.nav-header li a:hover{
+    text-decoration: underline;
+}
+
+.header-cart{
+    text-decoration: none;
+    font-size: 24px;
+    color: #371C27;
+}
+
+.header-num{
+    text-decoration: none;
+    font-size: 24px;
+    color: #824354;
+    border-radius: 12px;
+    background: #D1C1C7;
+    padding: 8px 16px;
+}
+
+.main-title{
+    font-size: 72px;
+    line-height: 90px;
+    color: #371C27;
+    width: 386px;
+    margin-top: -545px;
+    margin-left: 87px;
+}
+
+.main-button{
+    margin-left: 87px;
+    margin-top: 80px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 16px;
+    color: #371C27;
+    margin-bottom: 215px;
+}
+
+.skincare{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.skin-title{
+    color: #371C27;
+}
+
+.skin-title2{
+    margin: 54px 0;
+    color: #371C27;
+}
+
+.skin-text{
+    color: #371C27;
+    font-size: 24px;
+    line-height: 39.2px;
+    width: 457px;
+    margin-bottom: 54px;
+}
+
+.products{
+    max-width: 1344px;
+    margin: 0 auto;
+    margin-bottom: 81px;
+}
+
+.products-title{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.products-title2{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.product{
+    display: flex;
+    gap: 34px;
+}
+
+.product-item{
+    border-radius: 12px;
+    background: #D1C1C7;
+    height: 438px;
+    padding: 8px;
+}
+
+.product-text{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.product-text p{
+    color: #371C27;
+    font-size: 12px;
+}
+
+.product-text2{
+    font-size: 16px;
+    color: #371C27;
+    margin-bottom: 30px;
+}
+
+.product-button{
+    font-family: 'Architects Daughter', cursive;
+    color: #D1C1C7;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 5px;
+    background: #87747F;
+    padding: 12px 116px;
+}
+
+.product-button:hover{
+    cursor: pointer;
+    background: #755e6c;
+}
+
+.feature-group{
+    display: flex;
+}
+
+.feature-title{
+    color: #824354;
+    margin-bottom: 54px;
+}
+
+.feature-title2{
+    margin-bottom: 54px;
+    color: #371C27;
+}
+
+.feature-texxt{
+    font-size: 32px;
+    line-height: 40px;
+    color: #371C27;
+    margin-bottom: 54px;
+    width: 460px;
+}
+
+.feature-frames{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    margin-top: 121px;
+    margin-bottom: 121px;
+}
+
+.feature-img{
+    border-radius: 12px;
+    background: #D1C1C7;
+    padding: 16px 64px;
+}
+
+.image{
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.skin-blog{
+    max-width: 1118px;
+    margin: 0 auto;
+}
+
+.blog-title2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.blogs{
+    display: flex;
+    gap: 44px;
+}
+
+.blog-item{
+    display: flex;
+    gap: 44px;
+    margin-bottom: 80px;
+}
+
+.blog-text{
+    color: #371C27;
+    font-size: 32px;
+    line-height: 40px;
+    width: 213px;
+    margin-bottom: 77px;
+}
+
+.texxtt{
+    margin-bottom: 118px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    border-radius: 10px;
+    background: #D1C1C7;
+    padding: 49px 40px;
+}
+
+
+.text{
+    font-size: 12px;
+    line-height: 18px;
+    color: #371C27;
+}
+
+.footer-logo-text{
+    width: 134px;
+    margin-left: 8px;
+    margin-top: 34px;
+}
+
+.footer-title{
+    color: #371C27;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+.pages-title{
+    margin-bottom: 40px;
+}
+
+.pagess{
+    display: flex;
+    gap: 56px;
+}
+
+.pages-list{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.pages-list li{
+    list-style-type: none;
+}
+
+.pages-list:hover{
+    cursor: pointer;
+}
+
+.pages-text{
+    text-decoration: none;
+}
+
+.pages-text:hover{
+    text-decoration: underline;
+}
+
+.contact-title{
+    margin-bottom: 40px;
+}
+
+.contact-text{
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.text-a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.ct{
+    margin-bottom: 37px;
+}
+
+.where-title{
+    margin-bottom: 40px;
+}
+
+.where p{
+    margin-bottom: 36px;
+}
+
+.messangar{
+    display: flex;
+    gap: 32px;
+}
+/**
+
+
+**/
+
+@media screen and (min-width: 1440px) {
+
+    .container{
+        max-width: 1120px;
+        margin: 0 auto;
+    }
+
+    .button{
+        font-family: 'Architects Daughter', cursive;
+        padding: 12px 24px;
+        width: 163px;
+        border-radius: 12px;
+        border: 1px solid #87747F;
+        background: #D1C1C7;
+    }
+
+    .button:hover{
+        cursor: pointer;
+    }
+
+    .title{
+        font-size: 128px;
+        line-height: 128px;
+    }
+
+    .title2{
+        font-size: 64px;
+        line-height: 80px;
+    }
+
+    .header{
+        margin-top: 28px;
+        margin-bottom: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .nav-header{
+        display: flex;
+        justify-content: space-between;
+        gap: 40px;
+    }
+
+    .nav-header li{
+        list-style-type: none;
+    }
+
+    .nav-header li a{
+        text-decoration: none;
+        font-size: 32px;
+        color: #371C27;
+    }
+
+    .nav-header li a:hover{
+        text-decoration: underline;
+    }
+
+    .header-cart{
+        text-decoration: none;
+        font-size: 24px;
+        color: #371C27;
+    }
+
+    .header-num{
+        text-decoration: none;
+        font-size: 24px;
+        color: #824354;
+        border-radius: 12px;
+        background: #D1C1C7;
+        padding: 8px 16px;
+    }
+
+    .main-title{
+        font-size: 72px;
+        line-height: 90px;
+        color: #371C27;
+        width: 386px;
+        margin-top: -545px;
+        margin-left: 87px;
+    }
+
+    .main-button{
+        margin-left: 87px;
+        margin-top: 80px;
+        font-family: 'Architects Daughter', cursive;
+        font-size: 16px;
+        color: #371C27;
+        margin-bottom: 215px;
+    }
+
+    .skincare{
+        display: flex;
+        margin-bottom: 80px;
+    }
+
+    .skin-title{
+        color: #371C27;
+    }
+
+    .skin-title2{
+        margin: 54px 0;
+        color: #371C27;
+    }
+
+    .skin-text{
+        color: #371C27;
+        font-size: 24px;
+        line-height: 39.2px;
+        width: 457px;
+        margin-bottom: 54px;
+    }
+
+    .products{
+        max-width: 1344px;
+        margin: 0 auto;
+        margin-bottom: 81px;
+    }
+
+    .products-title{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .products-title2{
+        text-align: center;
+        margin-bottom: 80px;
+    }
+
+    .product{
+        display: flex;
+        gap: 34px;
+    }
+
+    .product-item{
+        border-radius: 12px;
+        background: #D1C1C7;
+        height: 438px;
+        padding: 8px;
+    }
+
+    .product-text{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .product-text p{
+        color: #371C27;
+        font-size: 12px;
+    }
+
+    .product-text2{
+        font-size: 16px;
+        color: #371C27;
+        margin-bottom: 30px;
+    }
+
+    .product-button{
+        font-family: 'Architects Daughter', cursive;
+        color: #D1C1C7;
+        font-size: 16px;
+        text-align: center;
+        border-radius: 5px;
+        background: #87747F;
+        padding: 12px 116px;
+    }
+
+    .product-button:hover{
+        cursor: pointer;
+    }
+
+    .feature-group{
+        display: flex;
+    }
+    
+    .feature-title{
+        color: #824354;
+        margin-bottom: 54px;
+    }
+
+    .feature-title2{
+        margin-bottom: 54px;
+        color: #371C27;
+    }
+
+    .feature-texxt{
+        font-size: 32px;
+        line-height: 40px;
+        color: #371C27;
+        margin-bottom: 54px;
+        width: 460px;
+    }
+
+    .feature-frames{
+        display: flex;
+        align-items: center;
+        gap: 32px;
+        margin-top: 121px;
+        margin-bottom: 121px;
+    }
+
+    .feature-img{
+        border-radius: 12px;
+        background: #D1C1C7;
+        padding: 16px 64px;
+    }
+
+    .image {
+        width: 1440px;
+        margin: 0 auto;
+        margin-bottom: 80px;
+    }
+
+    .skin-blog{
+        max-width: 1118px;
+        margin: 0 auto;
+    }
+
+    .blog-title2{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .blogs{
+        display: flex;
+        gap: 44px;
+    }
+
+    .blog-item{
+        display: flex;
+        gap: 44px;
+        margin-bottom: 80px;
+    }
+
+    .blog-text{
+        color: #371C27;
+        font-size: 32px;
+        line-height: 40px;
+        width: 213px;
+        margin-bottom: 77px;
+    }
+
+    .texxtt{
+        margin-bottom: 118px;
+    }
+
+    .footer{
+        display: flex;
+        justify-content: space-between;
+        gap: 80px;
+        border-radius: 10px;
+        background: #D1C1C7;
+        padding: 49px 40px;
+    }
+    
+
+    .text{
+        font-size: 12px;
+        line-height: 18px;
+        color: #371C27;
+    }
+
+    .footer-logo-text{
+        width: 134px;
+        margin-left: 8px;
+        margin-top: 34px;
+    }
+
+    .footer-title{
+        color: #371C27;
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+    .pages-title{
+        margin-bottom: 40px;
+    }
+
+    .pagess{
+        display: flex;
+        gap: 56px;
+    }
+
+    .pages-list{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .pages-list li{
+        list-style-type: none;
+    }
+
+    .pages-list:hover{
+        cursor: pointer;
+    }
+
+    .pages-text{
+        text-decoration: none;
+    }
+
+    .contact-title{
+        margin-bottom: 40px;
+    }
+
+    .contact-text{
+        text-decoration: none;
+        margin-bottom: 5px;
+    }
+
+    .text-a:hover{
+        cursor: pointer;
+    }
+
+    .ct{
+        margin-bottom: 37px;
+    }
+
+    .where-title{
+        margin-bottom: 40px;
+    }
+
+    .where p{
+        margin-bottom: 36px;
+    }
+    
+    .messangar{
+        display: flex;
+        gap: 32px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .container{
+        max-width: 500px;
+        margin: 0 auto;
+    }
+
+    .button{
+        padding: 7px 20px;
+        width: 122px;
+        font-size: 10px;
+        border-radius: 12px;
+    }
+
+    .title{
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .title2{
+        font-size: 32px;
+        line-height: 30px;
+    }
+
+    .logo{
+        height: 30px;
+    }
+
+    .nav-header{
+        gap: 20px;
+    }
+
+    .nav-header li a{
+        font-size: 20px;
+    }
+
+    .header-cart{
+        display: none;
+        font-size: 16px;
+    }
+
+    .header-num{
+        font-size: 20px;
+        padding: 6px 12px;
+    }
+
+    .main img{
+        height: 320px;
+    }
+
+    .main-title{
+        font-size: 38px;
+        line-height: 50px;
+        width: 233px;
+        margin-top: -259px;
+        margin-left: 37px;
+    }
+
+    .main-button{
+        margin-left: 37px;
+        margin-top: 25px;
+        margin-bottom: 160px;
+    }
+
+    .skincare{
+        margin-bottom: 80px;
+    }
+
+    .skincare img{
+        height: 407px;
+    }
+
+    .skin-title2{
+        margin: 35px 0;
+        width: 220px;
+    }
+
+    .skin-text{
+        font-size: 14px;
+        line-height: 20px;
+        width: 205px;
+        margin-bottom: 35px;
+    }
+
+    .products{
+        max-width: 700px;
+        margin-bottom: 81px;
+    }
+
+    .products-title{
+        margin-bottom: 20px;
+    }
+
+    .products-title2{
+        margin-bottom: 40px;
+    }
+
+    .product{
+        gap: 28px;
+    }
+
+    .product-item img{
+        height: 138px;
+    }
+
+    .product-item{
+        border-radius: 12px;
+        height: 261px;
+    }
+
+    .product-text p{
+        font-size: 8px;
+    }
+
+    .product-text2{
+        font-size: 10px;
+    }
+
+    .product-button{
+        font-size: 12px;
+        padding: 12px 40px;
+    }
+
+    .feature-group{
+        display: flex;
+    }
+
+    .feature-group img{
+        height: 318px;
+    }
+    
+    .feature-title{
+        margin-bottom: 24px;
+    }
+
+    .feature-title2{
+        margin-bottom: 24px;
+    }
+
+    .feature-texxt{
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 24px;
+        width: 235px;
+    }
+
+    .feature-frames{
+        gap: 18px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    .feature-img{
+        padding: 10px 29px;
+    }
+
+    .feature-img img{
+        height: 13px;
+    }
+
+    .image{
+        width: 760px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+
+    .image img{
+        height: 642px;
+    }
+
+    .skin-blog{
+        max-width: 500px;
+    }
+
+    .blog-title2{
+        margin-bottom: 40px;
+    }
+
+    .blogs{
+        gap: 14px;
+    }
+
+    .blog-item{
+        gap: 14px;
+        margin-bottom: 80px;
+    }
+
+    .blog-item img{
+        height: 125px;
+    }
+
+    .blog-text{
+        font-size: 12px;
+        line-height: 20px;
+        width: 109px;
+        margin-bottom: 33px;
+    }
+
+    .texxtt{
+        margin-bottom: 33px;
+    }
+
+    .footer{
+        gap: 33px;
+        padding: 29px 20px;
+    }
+    
+
+    .text{
+        font-size: 8px;
+        line-height: 10px;
+    }
+
+    .footer-logo-text{
+        width: 80px;
+        margin-left: 8px;
+        margin-top: 18px;
+    }
+
+    .footer-title{
+        font-size: 10px;
+        line-height: 22px;
+    }
+
+    .pages-title{
+        margin-bottom: 24px;
+    }
+
+    .pagess{
+        gap: 20px;
+    }
+
+    .pages-list{
+        gap: 7px;
+    }
+
+    .contact-title{
+        margin-bottom: 29px;
+    }
+
+    .ct{
+        margin-bottom: 27px;
+    }
+
+    .where-title{
+        margin-bottom: 29px;
+    }
+
+    .where p{
+        margin-bottom: 26px;
+    }
+    
+    .messangar{
+        display: flex;
+        gap: 15px;
+    }
+
+    .messangar img{
+        height: 10px;
+    }
+    
+}
+
+@media screen and (max-width: 760px) {
+    .container{
+        max-width: 300px;
+    }
+
+    .button{
+        padding: 1px 3px;
+        width: 70px;
+        font-size: 4px;
+        border-radius: 12px;
+    }
+
+    .title{
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .title2{
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .logo{
+        height: 20px;
+    }
+
+    .header{
+        margin-bottom: 20px;
+        margin-top: 8px;
+    }
+
+    .nav-header{
+        gap: 15px;
+    }
+
+    .nav-header li a{
+        font-size: 11px;
+    }
+
+    .header-cart{
+        display: none;
+        font-size: 11px;
+    }
+
+    .header-num{
+        font-size: 11px;
+        padding: 1px 6px;
+    }
+
+    .main img{
+        height: 193px;
+    }
+
+    .main-title{
+        font-size: 18px;
+        line-height: 20px;
+        width: 102px;
+        margin-top: -147px;
+        margin-left: 25px;
+    }
+
+    .main-button{
+        margin-left: 25px;
+        margin-top: 25px;
+        margin-bottom: 85px;
+    }
+
+    .skincare{
+        margin-bottom: 40px;
+    }
+
+    .skincare img{
+        height: 206px;
+    }
+
+    .skin-title2{
+        margin: 20px 0;
+        width: 160px;
+    }
+
+    .skin-text{
+        font-size: 10px;
+        line-height: 12px;
+        width: 146px;
+        margin-bottom: 20px;
+    }
+
+    .products{
+        max-width: 300px;
+        margin-bottom: 40px;
+    }
+
+    .products-title{
+        margin-bottom: 10px;
+    }
+
+    .products-title2{
+        margin-bottom: 20px;
+    }
+
+    .product{
+        gap: 14px;
+    }
+
+    .product-item img{
+        height: 56px;
+    }
+
+    .product-item{
+        height: 164px;
+        padding: 4px;
+        border-radius: 5px;
+    }
+
+    .product-text{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 5px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+
+    .product-text p{
+        font-size: 2px;
+        width: 56px;
+    }
+
+    .product-text2{
+        font-size: 10px;
+        margin-bottom: 11px;
+    }
+
+    .product-button{
+        font-size: 6px;
+        padding: 3px 7px;
+    }
+
+    .btn{
+        margin-top: 12px;
+    }
+
+    .feature-group img{
+        height: 218px;
+    }
+    
+    .feature-title{
+        margin-bottom: 24px;
+    }
+
+    .feature-title2{
+        margin-bottom: 34px;
+    }
+
+    .feature-texxt{
+        font-size: 8px;
+        line-height: 10px;
+        margin-bottom: 24px;
+        width: 107px;
+    }
+
+    .feature-frames{
+        gap: 16px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .feature-img{
+        padding: 3px 17px;
+    }
+
+    .feature-img img{
+        height: 7px;
+    }
+
+    .image img{
+        height: 292px;
+    }
+
+    .image{
+        margin-bottom: 40px;
+        width: 320px;
+        margin: 0 auto;
+    }
+
+    .skin-blog{
+        max-width: 320px;
+    }
+
+    .blog-title2{
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+    .blogs{
+        gap: 4px;
+    }
+
+    .blog-item{
+        gap: 4px;
+        margin-bottom: 40px;
+    }
+
+    .blog-item img{
+        height: 86px;
+    }
+
+    .blog-text{
+        font-size: 6px;
+        line-height: 12px;
+        width: 67px;
+        margin-bottom: 20px;
+    }
+
+    .texxtt{
+        margin-bottom: 33px;
+    }
+
+    .footer{
+        flex-direction: column;
+        gap: 25px;
+        padding: 13px 13px;
+    }
+    
+
+    .text{
+        font-size: 3px;
+        line-height: 8px;
+    }
+
+    .footer-logo{
+        display: flex;
+    }
+
+    .footer-logo-text{
+        width: 159px;
+        margin-left: 18px;
+        margin-top: 2px;
+    }
+
+    .footer-title{
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .pages{
+        display: flex;
+        gap: 42px;
+    }
+
+    .pages-title{
+        margin-bottom: 5px;
+    }
+
+    .pagess{
+        gap: 10px;
+    }
+
+    .pages-list{
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .contact{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .contact-title{
+        margin-bottom: 13px;
+    }
+
+    .contact-text{
+        width: 75px;
+    }
+
+    .ct{
+        margin-bottom: 16px;
+    }
+
+    .where{
+        display: flex;
+        
+    }
+
+    .where-title{
+        margin-bottom: 29px;
+        width: 92px;
+    }
+
+    .where p{
+        margin-bottom: 14px;
+    }
+    
+    .messangar{
+        display: flex;
+        gap: 5px;
+    }
+
+    .messangar img{
+        height: 10px;
+    }   
+}
